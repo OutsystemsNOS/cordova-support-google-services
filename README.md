@@ -1,6 +1,6 @@
 <b>NOS</b>: Dependency of [cordova-plugin-firebase-analytics-os](https://github.com/OutsystemsNOS/cordova-plugin-firebase-analytics-os)</br></br>
 
-**DEPRECATION NOTICE**: no longer needed. Use preference `GradlePluginGoogleServicesEnabled` for `cordova-android` version 9 or higher.
+**DEPRECATION NOTICE**: no longer needed. Use preference `GradlePluginGoogleServicesEnabled` for `cordova-android` version 9 or higher.</br>
 **NOS**: Still needed to support older versions
 
 # Cordova plugin to add support for google services
